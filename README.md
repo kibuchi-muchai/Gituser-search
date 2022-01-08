@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
+## Description
+
+Gituser-search allows an individual to lookup users and repositories by typing in a username and a repository name. 
+
+## Author
+
+Kibuchi Muchai
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
